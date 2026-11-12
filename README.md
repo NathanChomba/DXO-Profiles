@@ -9,7 +9,7 @@ Open DXO's **Community** page. Newer versions of DXO connect here by
 themselves. On older ones, click the gear button and paste the raw address
 of this repository's `index.json`:
 
-    https://raw.githubusercontent.com/<owner>/dxo-profiles/main/index.json
+    https://raw.githubusercontent.com/NathanChomba/DXO-Profiles/main/index.json
 
 DXO only downloads from here. Nothing on your PC is uploaded, and any
 "open a program" button is removed from a profile before it's saved.

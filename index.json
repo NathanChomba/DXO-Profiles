@@ -8,7 +8,7 @@
       "game": "Call of Duty",
       "category": "Shooter",
       "controller": "DualSense",
-      "author": "dxo",
+      "author": "NathanChomba",
       "description": "Hold L2 to aim with the gyro, right stick for big turns. Weapon click on R2.",
       "tags": [
         "gyro",
@@ -24,7 +24,7 @@
       "game": "Call of Duty",
       "category": "Shooter",
       "controller": "Any",
-      "author": "dxo",
+      "author": "NathanChomba",
       "description": "Sticks only. Small deadzones and a curve that slows the first part of the stick for fine aim.",
       "tags": [
         "sticks"
@@ -39,7 +39,7 @@
       "game": "Call of Duty",
       "category": "Shooter",
       "controller": "DualSense Edge",
-      "author": "dxo",
+      "author": "NathanChomba",
       "description": "Jump and slide on the back paddles so your thumb stays on the right stick.",
       "tags": [
         "paddles"
@@ -54,7 +54,7 @@
       "game": "Forza Horizon 5",
       "category": "Racing",
       "controller": "DualSense",
-      "author": "dxo",
+      "author": "NathanChomba",
       "description": "Brake resistance on L2, light throttle on R2, fine steering.",
       "tags": [
         "adaptive triggers",
@@ -70,7 +70,7 @@
       "game": "Forza Horizon 5",
       "category": "Racing",
       "controller": "Any",
-      "author": "dxo",
+      "author": "NathanChomba",
       "description": "Soft steering near the centre for smooth corners; stronger low rumble for road feel.",
       "tags": [
         "steering",
@@ -86,7 +86,7 @@
       "game": "Elden Ring",
       "category": "Action & adventure",
       "controller": "DualSense",
-      "author": "dxo",
+      "author": "NathanChomba",
       "description": "Touchpad opens the map; smoothed camera stick; amber breathing light.",
       "tags": [
         "comfort"
